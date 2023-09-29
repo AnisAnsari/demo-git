@@ -1,6 +1,0 @@
-[totalteam layout='grid-layout' display_type='all' team_number='99' template_type='basic' template='template-4' order='DESC' orderby='date' custom_layout='off' element_per_row='4' margin='10' thumb_content='general' additional_detail_type='popup' image_size='totalteam-large' content_position='center']
-
-
-[totalteam layout='grid-layout' display_type='category-id' category_id='75' team_number='99' template_type='basic' template='template-4' order='DESC' orderby='date' custom_layout='off' element_per_row='4' margin='10' thumb_content='general' additional_detail_type='popup' image_size='totalteam-large' content_position='center']
-
-New Joinees Coming Soon 
